@@ -1,4 +1,5 @@
-Upload ALL files and folders from this ZIP to GitHub.
+# COR Cover-up
 
-Then:
-Settings -> Pages -> Deploy from branch -> main / root
+Static GitHub Pages-ready site. Upload all files to a GitHub repository and enable Pages from the repository settings.
+
+All PDFs in `/documents` are kept under GitHub's 25 MB web-upload limit.
